@@ -34,7 +34,7 @@ function App() {
           </p>
         </div>
         <div className="footer-name-pic">
-          <img src={Headshot} className="avatar" />
+          <img src={Headshot} className="avatar" alt="greg hooper's headshot" />
           <p className="name-text">{cardConstants.NAME}</p>
         </div>
       </div>
