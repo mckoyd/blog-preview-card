@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/blog-preview-card/static/css/main.1293012a.css",
+    "main.js": "/blog-preview-card/static/js/main.7ac44e98.js",
+    "static/media/Figtree-Italic-VariableFont_wght.ttf": "/blog-preview-card/static/media/Figtree-Italic-VariableFont_wght.bf017463d790259b89d4.ttf",
+    "static/media/Figtree-VariableFont_wght.ttf": "/blog-preview-card/static/media/Figtree-VariableFont_wght.5ecd3f8010e7190b961b.ttf",
+    "static/media/illustration-article.svg": "/blog-preview-card/static/media/illustration-article.082cca317c8b4b2c973fa73013373085.svg",
+    "static/media/image-avatar.webp": "/blog-preview-card/static/media/image-avatar.79dc6fdb93748b6b0120.webp",
+    "index.html": "/blog-preview-card/index.html",
+    "main.1293012a.css.map": "/blog-preview-card/static/css/main.1293012a.css.map",
+    "main.7ac44e98.js.map": "/blog-preview-card/static/js/main.7ac44e98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1293012a.css",
+    "static/js/main.7ac44e98.js"
+  ]
+}
