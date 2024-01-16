@@ -1,13 +1,24 @@
+@font-face {
+  font-family: "Figtree";
+  src: local("Figtree"),
+    url("./assets/fonts/Figtree-Italic-VariableFont_wght.ttf"), format(".ttf");
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: local("Figtree"), url("./assets/fonts/Figtree-VariableFont_wght.ttf"),
+    format(".ttf");
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: "Figtree";
+  background-color: #f4cf4f;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
